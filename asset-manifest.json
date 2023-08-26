@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geetcode/static/css/main.073c9b0a.css",
+    "main.js": "/geetcode/static/js/main.39485fc9.js",
+    "static/js/787.9e803c77.chunk.js": "/geetcode/static/js/787.9e803c77.chunk.js",
+    "index.html": "/geetcode/index.html",
+    "main.073c9b0a.css.map": "/geetcode/static/css/main.073c9b0a.css.map",
+    "main.39485fc9.js.map": "/geetcode/static/js/main.39485fc9.js.map",
+    "787.9e803c77.chunk.js.map": "/geetcode/static/js/787.9e803c77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.39485fc9.js"
+  ]
+}
