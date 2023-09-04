@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/geetcode/static/css/main.7e37b18a.css",
-    "main.js": "/geetcode/static/js/main.3586c5cd.js",
+    "main.js": "/geetcode/static/js/main.bbb5cb21.js",
     "static/js/787.9e803c77.chunk.js": "/geetcode/static/js/787.9e803c77.chunk.js",
     "index.html": "/geetcode/index.html",
     "main.7e37b18a.css.map": "/geetcode/static/css/main.7e37b18a.css.map",
-    "main.3586c5cd.js.map": "/geetcode/static/js/main.3586c5cd.js.map",
+    "main.bbb5cb21.js.map": "/geetcode/static/js/main.bbb5cb21.js.map",
     "787.9e803c77.chunk.js.map": "/geetcode/static/js/787.9e803c77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e37b18a.css",
-    "static/js/main.3586c5cd.js"
+    "static/js/main.bbb5cb21.js"
   ]
 }
